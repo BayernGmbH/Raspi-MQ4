@@ -17,7 +17,7 @@ class MQ():
     CALIBARAION_SAMPLE_TIMES     = 50       # define how many samples you are going to take in the calibration phase
     CALIBRATION_SAMPLE_INTERVAL  = 500      # define the time interval(in milisecond) between each samples in the
                                             # cablibration phase
-    READ_SAMPLE_INTERVAL         = 10000       # define the time interval(in milisecond) between each samples in
+    READ_SAMPLE_INTERVAL         = 1000       # define the time interval(in milisecond) between each samples in
     READ_SAMPLE_TIMES            = 5        # define how many samples you are going to take in normal operation 
                                             # normal operation
  
